@@ -1,12 +1,12 @@
 %% Test Program
 % Created 11 November, 2020
-% Author: Donavon Schroeder 
+% Author: Donavon Schroeder
 
-%% We want this program to display "hello world" 
+%% We want this program to display "hello world"
 
 %% hosuekeeping
 clear; close all; clc;
 
-% hello world 
-variable = 'Hello World';
-disp(variable)
+% hello world
+variable1 = 'Hello World';
+disp(variable1)

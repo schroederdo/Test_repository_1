@@ -8,5 +8,5 @@
 clear; close all; clc;
 
 % hello world
-variable1 = 'Hello World';
-disp(variable1)
+THEvariable = 'Hello World';
+disp(THEvariable)
